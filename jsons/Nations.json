@@ -1,1 +1,39 @@
+[
+	{
+		"name": "The Sautekh Dynasty",
+		"leaderName": "Imotekh The Stormlord",
+		"adjective": ["Sautek"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Imotekh, my Phaeron, we have arried at this floating rock. As ruler of a dynsasty that has etched themselves into the Easten Fringe, it is your right to reclaim the galaxy for yourself. All your empire from a civil upon your now throne world Mandragora.",
+		"startIntroPart2": "Great Stormlord, master stratagiest of warfare, how do you seek to reclaim your galaxy?. How will you reforge this world?",
+		
+		"declaringWar": "Order. Unity. Obedience. We taught the galaxy these things long ago, and we will do so again.",
+		"attacked": "Bold, but foolish.",
+		"defeated": "Our people are awakening, and soon all of the galaxy shall be ours once more.",
+		"introduction": "Mere ants.",
+		
+		"neutralHello": "What.",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["Denied.","No.","I refuse."],
+		"neutralYes": ["Very good.","Yes.","Mm."],
 
+		"hateHello": "What do you want.",
+		"hateLetsHearIt": ["Speak!","Fine, speak.","Go on."],
+		"hateNo": ["Fool.","Enough.","I beg your pardon?"],
+		"hateYes": ["Fine.","Adaquate.","Very well..."],
+		
+		"afterPeace": "Next time, do not have such faith in your negotiation skills.",
+		"tradeRequest": "Here.",
+
+		"outerColor": [132, 136, 138],
+		"innerColor": [11, 84, 19],
+		"uniqueName": "Relentless Advance",
+		"uniques": ["[+1] Movement <for [{Military}] units>",
+		"cities": ["Mandragora","Avarris","Cano'var","Davatas","Ghor","Girdrim","Hypnoth","Jorokh","Medusa VII",
+			"Novokor","Rithcarin","Schrodinger VII","Somonor","Vanur","Sarlock","Akator","Akynatos","Bardic","Bekyra",
+			"Berien","Carnac","Carrion Deep","Chandrax II","Doahht","Drazak","Fordris","Iori Delta Trove","Ixya","Kinbriar",
+			"Maedrax","Morrigar","Morrigor","Nagathar","Naogeddon","Nervkor"]
+	}
+]
