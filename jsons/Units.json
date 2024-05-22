@@ -1,1 +1,15 @@
-
+[
+	{
+		"name": "Overlord",
+		"unitType": "Sword",
+		"uniqueTo": "Sautekh",
+		"replaces": "Machine Gun",
+		"movement": 2,
+		"strength": 90,
+		"cost": 500,
+		"requiredTech": "Ballistics",
+		"promotions": ["Logistics","Accuracy I"],
+		"uniques": 
+		"attackSound": "phasers"
+	}
+]
